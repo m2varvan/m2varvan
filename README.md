@@ -40,7 +40,7 @@ Full-stack web application for browsing, searching, and reviewing movies.\
 `JavaScript`
 
 ### [Network Triage Agent](https://github.com/m2varvan/network-triage-agent)
-AI-powered Network Incident Triage Assistant leveraging open-source AI models to diagnose network incident root causes.\
+Collaborated on an AI-powered Network Incident Triage Assistant leveraging open-source AI models to diagnose network incident root causes.\
 `Python`
 
 ### [Traffic Accident Risk Prediction](https://github.com/manand05/traffic-accident-risk-prediction)
